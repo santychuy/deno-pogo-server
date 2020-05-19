@@ -21,6 +21,6 @@ deno run --allow-net src/index.ts
 
 ## Licencias
 
-> Puedes ver la licencia [aquí](https://github.com/santychuy/discord-bot-losBuenos/blob/master/LICENSE).
+> Puedes ver la licencia [aquí](https://github.com/santychuy/deno-pogo-server/blob/master/LICENSE).
 
 Este proyecto tiene licencia bajo los términos de la licencia **MIT**.
